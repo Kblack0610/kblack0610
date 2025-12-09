@@ -2,8 +2,6 @@
 
 [kennethblack.me](https://kennethblack.me)
 
-<a href="http://kennethblack.me/" target="_blank">kennethblack.me</a>
-
 <!--
 **Kblack0610/kblack0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
